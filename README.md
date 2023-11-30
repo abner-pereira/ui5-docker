@@ -36,7 +36,7 @@
    `sudo docker container ls`
 
 5. Abrindo a aplicação: </br>
-   Link: [http://localhost:8080/index.html](https://127.0.0.1:8080/index.html)
+   Link: [http://localhost:8080/index.html](http://127.0.0.1:8080/index.html)
 
 ---
 
@@ -46,7 +46,7 @@
    `sudo docker container ls`
 
 2. Eliminando o container: </br>
-   `sudo docker rm -f <ID Container>`
+   `sudo docker rm -f <Container ID>`
 
 ---
 
@@ -56,4 +56,4 @@
    `sudo docker image ls`
 
 2. Eliminando a imagem: </br>
-   `sudo docker rmi -f <ID Image>`
+   `sudo docker rmi -f <Image ID>`
