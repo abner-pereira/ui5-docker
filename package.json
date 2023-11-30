@@ -1,0 +1,14 @@
+{
+    "name": "sapui5-quickstart",
+    "version": "1.0.0",
+    "author": "SAP SE",
+    "description": "SAPUI5 Quickstart",
+    "scripts": {
+        "build": "ui5 build",
+        "start": "ui5 serve -o index.html",
+        "start-docker": "ui5 serve -p 3000 --accept-remote-connections"
+    },
+    "devDependencies": {
+        "@ui5/cli": "^3.7.2"
+    }
+}
