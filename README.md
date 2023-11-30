@@ -14,7 +14,7 @@
 ### Rodando o projeto locamente
 
 1. Instalação: </br>
-   `npn install`
+   `npm install`
 
 2. Rodando locamente: </br>
    `npm start`
